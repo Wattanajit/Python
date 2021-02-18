@@ -33,6 +33,8 @@ animal.add("mokey")
 animal.update(["python","capibara","spider","wombat","penguin","crocodile"])
 print(animal)'''
 
+
+#แบบฝึกหัด2.1
 print("โปรแกรมหยิบสินค้าใส่ตะกร้า")
 a1 = []
 for x in range(1,6):
@@ -45,6 +47,8 @@ print("3.",a1[2])
 print("4.",a1[3])
 print("5.",a1[4])
 
+
+#แบบฝักหัด2.2
 '''print("\tโปรแกรมคำนวณค่าผ่านทางมอเตอร์เวย์")
 print("-"*50)
 print("\tรถยนต์ 4 ล้อ กด 1")
